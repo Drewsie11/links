@@ -1,6 +1,7 @@
 # Number row characters
+- '~'  Approximate Symbol
 - '!'  Exlamation point
-- '@'  At symbol
+- '@'  At Symbol
 - '#'  Pound Symbol
 - '$'  Dollar Symbol
 - '%'  Percent Symbol
@@ -10,7 +11,7 @@
 - '('  Left bracket
 - ')'  Right Bracket
 - '_'  Underscore
-- '+'  Plus symbol
+- '+'  Plus Symbol
 # Links
 - [Google](https://www.google.com/)
 - [Brightspace](https://learn.georgebrown.ca/d2l/home)
