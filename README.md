@@ -34,3 +34,6 @@ Shortcuts I would like to start using:
 - Ctrl-A (select all)
 - Win-D (show desktop)
 - Windows logo key + Tab (Open Task View) 
+
+# CLI Commands
+[CLI commands](docs/cli.md)
